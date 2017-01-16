@@ -4,7 +4,7 @@ public class Max {
 
 	public static void main(String[] args) {
 		int[] nums={57, 5, 10, 7, 63, 9};
-		max(nums);	//최대값 구하기
+		max(nums);	
 	}
 	
 	private static void max(int[] nums){
